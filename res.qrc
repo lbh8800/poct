@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>png/colorBar</file>
+        <file>png/lockClose</file>
+        <file>png/lockOpen</file>
+        <file>png/p1b1test</file>
+        <file>png/p1b1test-press</file>
+        <file>png/p1b2qc</file>
+        <file>png/p1b2qc-press</file>
+        <file>png/p1b3set</file>
+        <file>png/p1b3set-press</file>
+        <file>png/p1b4que</file>
+        <file>png/p1b4que-press</file>
+        <file>png/p1Back</file>
+        <file>png/p2b0</file>
+        <file>png/p2b0-press</file>
+        <file>png/p2b1reset</file>
+        <file>png/p2b1reset-press</file>
+        <file>png/p2b2clean</file>
+        <file>png/p2b2clean-press</file>
+        <file>png/p2b3sys</file>
+        <file>png/p2b3sys-press</file>
+        <file>png/p2b4trans</file>
+        <file>png/p2b4trans-press</file>
+        <file>png/p2b5print</file>
+        <file>png/p2b5print-press</file>
+        <file>png/p2b6plot</file>
+        <file>png/p2b6plot-press</file>
+        <file>png/p2b7toMain</file>
+        <file>png/p2b7toMain-press</file>
+        <file>png/p2back</file>
+        <file>png/p2demo</file>
+        <file>png/pointGreen</file>
+        <file>png/pointPink</file>
+        <file>png/T1</file>
+        <file>png/T2</file>
+        <file>png/T3</file>
+        <file>png/T4</file>
+        <file>png/Q1</file>
+    </qresource>
+</RCC>

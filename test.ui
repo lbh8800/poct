@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Test</class>
+ <widget class="QWidget" name="Test">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1280</width>
+    <height>800</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true"/>
+  </property>
+  <widget class="QWidget" name="horizontalLayoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>30</y>
+     <width>1281</width>
+     <height>151</height>
+    </rect>
+   </property>
+   <layout class="QHBoxLayout" name="horizontalLayout">
+    <item>
+     <widget class="ButtonCommon" name="btReset">
+      <property name="text">
+       <string/>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="ButtonCommon" name="btClean">
+      <property name="text">
+       <string/>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="ButtonCommon" name="btSys">
+      <property name="text">
+       <string/>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="ButtonCommon" name="btTrans">
+      <property name="text">
+       <string/>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="ButtonCommon" name="btPrint">
+      <property name="text">
+       <string/>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="ButtonCommon" name="btPlot">
+      <property name="text">
+       <string/>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="ButtonCommon" name="btToMain">
+      <property name="text">
+       <string/>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QWidget" name="horizontalLayoutWidget_2">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>590</y>
+     <width>1281</width>
+     <height>171</height>
+    </rect>
+   </property>
+   <layout class="QHBoxLayout" name="horizontalLayout_2">
+    <item>
+     <widget class="ButtonTest" name="btT1">
+      <property name="text">
+       <string>37.6°C</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="ButtonTest" name="btT2">
+      <property name="text">
+       <string>37.6°C</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="ButtonTest" name="btT3">
+      <property name="text">
+       <string>37.6°C</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="ButtonTest" name="btT4">
+      <property name="text">
+       <string>37.6°C</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="ButtonTest" name="btQ1">
+      <property name="text">
+       <string>37.6°C</string>
+      </property>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <customwidgets>
+  <customwidget>
+   <class>ButtonCommon</class>
+   <extends>QPushButton</extends>
+   <header location="global">buttoncommon.h</header>
+  </customwidget>
+  <customwidget>
+   <class>ButtonTest</class>
+   <extends>QPushButton</extends>
+   <header location="global">buttontest.h</header>
+  </customwidget>
+ </customwidgets>
+ <resources/>
+ <connections/>
+</ui>
